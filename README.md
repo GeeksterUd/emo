@@ -1,1 +1,3 @@
 # emo
+i created three files in html file i created a div inside i made a input box and a button and another div which will show the emoji list, in my css file i gave styling to html file and then in js file to get button and input element i used get element by id and then to store the input box value i created a variable for storing the value for that i used .value and then i created function which will check if the searched value is avaible in my emojilist if yes it will return  true
+then i created h1 to show emoji and p to show descrition and h3 to show category using .create element then i used .inner text to show the value and then to show in browser i used .append child on div i created to show the emoji list
